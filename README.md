@@ -1,6 +1,6 @@
-<h3 align="center">bibrik</h3> 
+<h2 align="center">bibrik</h2> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fequme&label=%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D1%8B%20%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8F&color=0e75b6&style=for-the-badge" alt="fequme" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KiQ098315&label=%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D1%8B%20%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8F&color=0e75b6&style=for-the-badge" alt="KiQ098315" /> </p>
 
 - Добро пожаловать на нашу страницу, здесь ты можешь найти много полезных и не только ботов на разных языках. Не забывай **оставлять звёзды под репозиториями, они нам очень нужны!**
 
@@ -12,6 +12,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fequme&show_icons=true&theme=dark&locale=ru" alt="fequme" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KiQ098315&show_icons=true&theme=dark&locale=ru" alt="KiQ098315" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fequme&theme=dark" alt="fequme" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KiQ098315&theme=dark" alt="KiQ098315" /></p>
